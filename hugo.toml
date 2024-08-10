@@ -66,20 +66,20 @@ theme="github-light"
 
 
 [[menu.main]]
-url = "/"
-name = "主页"
+url = "/posts"
+name = "Archives"
 weight = 1
 [[menu.main]]
 url = "/about"
-name = "关于"
+name = "About"
 weight = 2
 [[menu.main]]
 url = "/friends"
-name = "友情链接"
+name = "Friends"
 weight = 3
 [[menu.main]]
 url = "/index.xml"
-name = "RSS 订阅"
+name = "RSS"
 weight = 4
 
 [sitemap]
