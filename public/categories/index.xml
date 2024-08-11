@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Tony Ding&#39;s Blog</title>
-    <link>https://blog.tonyding.net/categories/</link>
+    <link>https://misakanetworktd.github.io/categories/</link>
     <description>Recent content in Categories on Tony Ding&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <copyright>2022 - 2024 Tony Ding&#39;s Blog</copyright>
     <lastBuildDate>Sat, 05 Nov 2022 12:35:58 +0800</lastBuildDate>
-    <atom:link href="https://blog.tonyding.net/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://misakanetworktd.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Todo</title>
-      <link>https://blog.tonyding.net/categories/todo/</link>
+      <link>https://misakanetworktd.github.io/categories/todo/</link>
       <pubDate>Sat, 05 Nov 2022 12:35:58 +0800</pubDate>
-      <guid>https://blog.tonyding.net/categories/todo/</guid>
+      <guid>https://misakanetworktd.github.io/categories/todo/</guid>
       <description></description>
     </item>
   </channel>

@@ -37,8 +37,8 @@ description = "My HomePage Description"  # will set 'og:description'
 [params.gitalk]
   owner = "MisakaNetworkTD"
   repo = "misakanetworktd.github.io"
-  client_id = "Ov23lihbS4RpvRevf8kO"
-  client_secret = "ba5bfbd655fdcd4839760cdb341d9631e5ef84cb"
+  client_id = "Ov23liQ9lbELo7ZzJzXK"
+  client_secret = "2771c7f7d5239274f5df6c4ce4dbda4ff7428019"
 [taxonomies]
    tag = "tags"
    category = "categories"
