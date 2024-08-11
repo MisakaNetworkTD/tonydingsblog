@@ -1,4 +1,4 @@
-baseURL = "https://blog.tonyding.net/"
+baseURL = "https://misakanetworktd.github.io/"
 DefaultContentLanguage = "zh" # Theme's display language, supports: en, fr, zh, zh-hant
 languageCode = "zh-cn"
 title = "Tony Ding's Blog"

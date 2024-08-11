@@ -36,11 +36,11 @@ ACG：
 
 #### 联系我
 Twitter: 
-[@MisakaNo18336](https://twitter.com/MisakaNo18336)
-Telegram: [@MisakaNo17336](https://t.me/MisakaNo17336)
+[@MisakaNo18336](https://twitter.com/MisakaNo18336) 
+Telegram: [@MisakaNo17336](https://t.me/MisakaNo17336)  
 Threads:
-[@misakanetworktd](https://www.threads.net/@misakanetworktd)
-Instagram: [@misakanetworktd](https://www.instagram.com/misakanetworktd)
+[@misakanetworktd](https://www.threads.net/@misakanetworktd)    
+Instagram: [@misakanetworktd](https://www.instagram.com/misakanetworktd)    
 Mastodon: [@MisakaNetworkTD](https://alive.bar/@misakanetworktd)
 
 （最后更新：2024.6.28）

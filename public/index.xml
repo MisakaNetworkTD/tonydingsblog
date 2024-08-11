@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tony Ding&#39;s Blog</title>
-    <link>http://localhost:1313/</link>
+    <link>https://blog.tonyding.net/</link>
     <description>Recent content on Tony Ding&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>2022 - 2024 Tony Ding&#39;s Blog</copyright>
     <lastBuildDate>Sat, 05 Nov 2022 12:35:58 +0800</lastBuildDate>
     
-        <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://blog.tonyding.net/index.xml" rel="self" type="application/rss+xml" />
     
     
     
         <item>
         <title>关于</title>
-        <link>http://localhost:1313/about/</link>
+        <link>https://blog.tonyding.net/about/</link>
         <pubDate>Sat, 05 Nov 2022 12:35:58 +0800</pubDate>
         
-        <guid>http://localhost:1313/about/</guid>
-        <description>Tony Ding&#39;s Blog http://localhost:1313/about/ -&lt;p&gt;读到这篇 About 的朋友，你好。
+        <guid>https://blog.tonyding.net/about/</guid>
+        <description>Tony Ding&#39;s Blog https://blog.tonyding.net/about/ -&lt;p&gt;读到这篇 About 的朋友，你好。
 我是 Tony Ding，一个 17 岁的高二生，在本市一公立高中的国际部就读，IBer。
 PGP Key: &lt;a href=&#34;https://keys.openpgp.org/vks/v1/by-fingerprint/9BBEB4FCF667C99D55220A59CF7A63F30403CA3F&#34;&gt;CF7A 63F3 0403 CA3F&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;爱好&#34;&gt;爱好&lt;/h4&gt;
@@ -53,22 +53,22 @@ Threads:
 Instagram: &lt;a href=&#34;https://www.instagram.com/misakanetworktd&#34;&gt;@misakanetworktd&lt;/a&gt;
 Mastodon: &lt;a href=&#34;https://alive.bar/@misakanetworktd&#34;&gt;@MisakaNetworkTD&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;（最后更新：2024.6.28）&lt;/p&gt;
-- http://localhost:1313/about/ - 2022 - 2024 Tony Ding&#39;s Blog</description>
+- https://blog.tonyding.net/about/ - 2022 - 2024 Tony Ding&#39;s Blog</description>
         </item>
     
     
     
         <item>
         <title>终于又把 blog 建起来了</title>
-        <link>http://localhost:1313/posts/2022-11-05/</link>
+        <link>https://blog.tonyding.net/posts/2022-11-05/</link>
         <pubDate>Sat, 05 Nov 2022 12:35:58 +0800</pubDate>
         
-        <guid>http://localhost:1313/posts/2022-11-05/</guid>
-        <description>Tony Ding&#39;s Blog http://localhost:1313/posts/2022-11-05/ -&lt;p&gt;这也不是我第一次建 blog 了，两年前那段封锁的日子里，我就在一台开着玩的 Vultr 机器上建了一个 Typecho，甚至还写了两篇&lt;del&gt;完全没人看的&lt;/del&gt;文章。
+        <guid>https://blog.tonyding.net/posts/2022-11-05/</guid>
+        <description>Tony Ding&#39;s Blog https://blog.tonyding.net/posts/2022-11-05/ -&lt;p&gt;这也不是我第一次建 blog 了，两年前那段封锁的日子里，我就在一台开着玩的 Vultr 机器上建了一个 Typecho，甚至还写了两篇&lt;del&gt;完全没人看的&lt;/del&gt;文章。
 但毕竟是开着玩，那个站以及那两篇文章不到一周就成为了历史。
 现在有条件了（主要是资金），总算可以真正建起一个用来写点东西的地方了。
 希望能坚持下去吧。&lt;/p&gt;
-- http://localhost:1313/posts/2022-11-05/ - 2022 - 2024 Tony Ding&#39;s Blog</description>
+- https://blog.tonyding.net/posts/2022-11-05/ - 2022 - 2024 Tony Ding&#39;s Blog</description>
         </item>
     
     
